@@ -1,5 +1,5 @@
 # Computer-Vision
-Mean, Median, Sobel, Prewitt, Laplacian Gaussian
+Mean, Median, Sobel, Laplacian Gaussian
 
 ![preview1](https://user-images.githubusercontent.com/68945509/89394732-67a8ff80-d747-11ea-8d5f-450755544158.PNG)
 
